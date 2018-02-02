@@ -1,12 +1,17 @@
 # PHPBasic
 example basic php <br>
 Topics are as follows
-1.output function
-2.math function
-3.String funciton
-4.DateTime function
-5.Connect maria database 
-5.1 insert data
-5.2 show data 
-5.3 delete data
-5.4 update data
+<ol>
+  <li>output function</li>
+  <li>math function</li>
+  <li>String funciton</li>
+  <li>DateTime function</li>
+  <li>Connect maria database 
+    <ol>
+      <li>insert data</li>
+      <li>show data</li>
+      <li>delete data</li>
+      <li>update data</li>
+    </ol>
+  </li>
+</ol>
